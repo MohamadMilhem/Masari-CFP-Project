@@ -1,5 +1,7 @@
 # Masari-CFP-Project
 a website that helps you decide your major in college or university Including three pages each one do a different job
+
+
 Compare page
 In this page you could choose as much as you want from majors to compare their properties
 
